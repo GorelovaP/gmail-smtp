@@ -16,6 +16,9 @@
     "vercel": "^28.5.6",
     "vercel.json": "^0.1.0"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "repository": "https://github.com/GorelovaP/gmail-smtp.git",
   "author": "GorelovaP <komsomolskai1@mail.ru>"
 }

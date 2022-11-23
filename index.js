@@ -47,7 +47,7 @@ app.post('/sendMessage', async (req, res) => {
 })
 
 app.get('/', (req, res) => {
-    res.send('Hello World!')
+    res.send('This is a message sending server!')
 })
 
 app.listen(port, () => {

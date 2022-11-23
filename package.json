@@ -15,5 +15,7 @@
     "touch": "^3.1.0",
     "vercel": "^28.5.6",
     "vercel.json": "^0.1.0"
-  }
+  },
+  "repository": "https://github.com/GorelovaP/gmail-smtp.git",
+  "author": "GorelovaP <komsomolskai1@mail.ru>"
 }
